@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Myroomdb</string>
+    <string name="message_yes" />
+    <string name="message_dialog" />
+    <string name="message_no" />
+    <string name="message_error" />
+    <string name="message_delete" />
+    <string name="message_cancel" />
+</resources>
